@@ -3,9 +3,9 @@ The repository contains our submission for [BCI Gamejam 2021](https://bcigamejam
 [Link to my website post:](https://imreza.ir/bci-game-jam-2021-musae-games/)
 
 Game implemente by:
-Marília Karla
-Olivier Rosanne
-Reza Amini Gougeh
+- Marília Karla
+- Olivier Rosanne
+- Reza Amini Gougeh
 
 
 # Instruction
